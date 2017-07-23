@@ -1,11 +1,11 @@
-Pipeline
+pipeline
  {
   agent any
-  Stages
+  stages
      {
-      Stage ("Stage 1")
+      stage ("Stage 1")
         {
-        Steps
+        steps
           {
           sh 'echo "hello world"'
           sh 'echo "This is from Dev branch"'
