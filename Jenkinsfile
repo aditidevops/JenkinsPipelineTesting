@@ -3,7 +3,7 @@ Pipeline
   agent any
   Stages
      {
-      Stage (Stage 1)
+      Stage ("Stage 1")
         {
         Steps
           {
