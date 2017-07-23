@@ -8,7 +8,7 @@ Pipeline
         Steps
           {
           sh 'echo "hello world"'
-          sh 'echo "hello aditi"'
+          sh 'echo "This is from Dev branch"'
           }
          }
        } 
